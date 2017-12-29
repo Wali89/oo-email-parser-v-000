@@ -5,5 +5,6 @@ class EmailParser(emails)
     parsed = emails.split(", ")
     parsed
   end
-
+  
+end
 end
